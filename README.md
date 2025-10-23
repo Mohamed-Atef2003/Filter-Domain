@@ -23,8 +23,6 @@ A professional tool for filtering domains and removing matching lines from files
 
 ### On Linux
 
-### On Linux
-
 ```bash
 # Make the file executable
 chmod +x filterdomain.py
@@ -62,7 +60,6 @@ filterdomain MAIN_FILE FILTER_FILE [-o OUTPUT_FILE] [-q] [-v] [-h]
 
 ## Quick Examples
 
-### 1. Print to Screen
 ### 1. Print to Screen
 ```bash
 filterdomain domains.txt blacklist.txt
@@ -163,7 +160,7 @@ This program is free and open source.
 
 ## Developer
 
-Developed with ❤️ using GitHub Copilot
+Developed with ❤️ using Mo7amed
 
 ---
 
