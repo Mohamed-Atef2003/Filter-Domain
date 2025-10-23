@@ -160,7 +160,7 @@ This program is free and open source.
 
 ## Developer
 
-Developed with ❤️ using Mo7amed
+Developed with ❤️ using Mo7amed Atef
 
 ---
 
@@ -168,3 +168,4 @@ Developed with ❤️ using Mo7amed
 ```bash
 filterdomain --help
 ```
+
